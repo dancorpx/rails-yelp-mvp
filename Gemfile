@@ -44,6 +44,8 @@ gem 'font-awesome-sass', '~> 5.0.9'
 gem 'simple_form'
 # Add autoprefixer-rails
 gem 'autoprefixer-rails'
+# Add jQuery
+gem 'jquery-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
